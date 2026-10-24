@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · nowii-core</sub></p>
+<p><sub> nowii-core</sub></p>
 <h1>nowii</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
