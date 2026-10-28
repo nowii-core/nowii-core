@@ -23,6 +23,9 @@
   <a href="https://github.com/nowii-core" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://linkedin.com/in/nowii-core" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://t.me/nowii_core_bot" target="_blank">
     <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" />
   </a>
