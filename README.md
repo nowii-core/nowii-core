@@ -15,13 +15,6 @@
   </table>
 </div>
 
----
-
-### About Me
-
-- **Role:** Frontend / Full-Stack Engineer
-- **Portfolio:** [nowii-portfolio](https://nowii-core.github.io/portfoglio/nowii-portfolio/)
-- **Ask me about:** Building scalable web applications and clean code practices.
 
 ---
 
