@@ -23,8 +23,8 @@
   <a href="https://github.com/nowii-core" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/@nowii_core_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Chat" />
+  <a href="https://t.me/nowii_core_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" />
   </a>
   <a href="https://discord.gg/z8DShQa8E" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
@@ -36,8 +36,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-*(Ricordati di sostituire `https://t.me/TuonomeBot` con il link reale del tuo bot per gli appuntamenti e `nowii_core` con il tuo username Telegram).*
 
 ---
 
@@ -135,3 +133,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+
+<div align="center">
+  <sub>Developed by <b>nowii-core</b></sub>
+</div>
