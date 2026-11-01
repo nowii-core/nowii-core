@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">nowii — Independent software builder</title>
+  <desc id="desc">A dark, minimal banner with a blue-violet light field and the nowii wordmark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d16"/>
+      <stop offset=".58" stop-color="#101827"/>
+      <stop offset="1" stop-color="#090d14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75e4ff"/>
+      <stop offset=".52" stop-color="#8795ff"/>
+      <stop offset="1" stop-color="#b38bff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="44%" r="56%">
+      <stop offset="0" stop-color="#526bff" stop-opacity=".28"/>
+      <stop offset=".55" stop-color="#263a78" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#0a0e16" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#b9c8e8" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#glow)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <path d="M0 278H1200" stroke="#9eb3d9" stroke-opacity=".13"/>
+  <path d="M820 0L650 340M900 0L730 340M980 0L810 340" stroke="#a9b8ff" stroke-opacity=".055"/>
+  <circle cx="970" cy="170" r="116" fill="none" stroke="url(#accent)" stroke-opacity=".34"/>
+  <circle cx="970" cy="170" r="88" fill="none" stroke="#a2b5ff" stroke-opacity=".16"/>
+  <path d="M929 224V116L1015 224V116" fill="none" stroke="url(#accent)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1044" cy="116" r="5" fill="#86e5ff"/>
+  <rect x="70" y="62" width="9" height="9" rx="2" fill="url(#accent)"/>
+  <text x="92" y="71" fill="#9eacc7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">INDEPENDENT SOFTWARE BUILDER</text>
+  <text x="66" y="172" fill="#f4f7ff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-4">nowii</text>
+  <text x="72" y="216" fill="#d5def1" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400">Building useful software across web, AI and security.</text>
+  <text x="72" y="290" fill="#8292b0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">DESIGN  /  ENGINEERING  /  EXPERIMENTATION</text>
+  <rect x="1080" y="278" width="48" height="2" rx="1" fill="url(#accent)" opacity=".9"/>
+</svg>
